@@ -23,5 +23,6 @@ Si queremos un modelo predictivo de calidad, debemos darle datos de calidad. Pod
 
 El preprocesamiento de los datos tiene diferentes etapas que mas adelante veremos en detalle. Sin embargo, una instacia 'Cero' podriamos decirle es explorar el dataset. Esto quiere decir 
 
+# FALTA TERMINAR!!!!!!!
 
 
